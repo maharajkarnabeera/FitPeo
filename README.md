@@ -1,3 +1,7 @@
+This is an Assignment given by Fitpeo a product based startup, to develop a completely responsive Dashboard using React.js, Material UI and ChartJS.
+Deployed Link of this website is --> https://66af4f220175d37ae3536665--karna-fitpeo-assignment.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
